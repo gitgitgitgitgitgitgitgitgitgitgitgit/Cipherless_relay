@@ -1,0 +1,6 @@
+Copyright (c) 2025 Mischa Nelson
+
+All rights reserved.
+This software and associated documentation files (“Software”) are proprietary to
+Mischa Nelson. No part of the Software may be used, copied, modified, distributed,
+or sold without express written permission from the copyright holder.
