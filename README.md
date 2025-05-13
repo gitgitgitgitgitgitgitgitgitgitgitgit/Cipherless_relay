@@ -32,20 +32,6 @@ A seed-driven “book cipher” that hides your message in a deterministic pseud
 
 ---
 
-## Quickstart
-
-git clone https://github.com/gitgitgitgitgitgitgitgitgitgitgitgit/Cipherless_relay/tree/main
-cd secure-seed-messaging
-python3 main.py
-
-
-Enter a seed (or press Enter for default).
-
-Choose mode
-
-search: enter the text you want to hide → get a pointer string
-
-get : paste the pointer → get back the hidden text snippet
 
 Requirements  
 Python 3.7 or later  
