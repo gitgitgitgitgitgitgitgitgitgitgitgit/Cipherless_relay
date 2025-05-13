@@ -34,7 +34,7 @@ A seed-driven “book cipher” that hides your message in a deterministic pseud
 
 ## Quickstart
 
-git clone https://github.com/gitgitgitgitgitgitgitgitgitgitgitgit/secure-seed-messaging.git
+git clone https://github.com/gitgitgitgitgitgitgitgitgitgitgitgit/Cipherless_relay/tree/main
 cd secure-seed-messaging
 python3 main.py
 
